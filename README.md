@@ -17,7 +17,7 @@ To find optimized pricing and product development decision for cars to maximize 
 
 ![image](https://github.com/dshreesr/impact-car-features/assets/33718332/d8e9f1a2-3939-4172-a50a-24ab4ad07b90)
 
-4. From above list, I have shortlisted the below vehicle styles based on following conditions:
+4. From above list, I have shortlisted the below vehicle styles based on popularity and cost conditions mentioned below:
    _2dr hatchback, Passenger van_ – The avg. price and avg. popularity has increased over the years.
    
    _4dr hatchback, Wagon, Sedan, Convertible_ - the popularity has remained the same even after increase in the avg price.
